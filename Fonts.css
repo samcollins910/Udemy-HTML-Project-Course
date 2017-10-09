@@ -1,0 +1,56 @@
+/*p {
+	font-family: arial;
+}
+h1 {
+	font-family: georgia;
+}
+
+h1 {
+	font-size: 85ps;
+}
+span {
+	font-size: 2.0em;
+}*/
+
+h1 {
+	font-family: 'Ewert', cursive;
+	/*font-family: georgia;*/
+}
+body {
+	font-size: 10px;
+}
+h1{
+	font-size: 5.0em;
+}
+p1{
+	font-size: 2.0em;
+	font-family: 'Indie Flower', cursive;
+}
+span {
+	font-size: 2.0em;
+}
+
+/*font weight*/
+/*p {
+	font-weight: bold;
+}
+*/
+/*line height*/
+p1 {
+	line-height: 1.5;
+}
+
+/*text align*/
+h1 {
+	text-align: center;
+}
+
+/*text decoration*/
+span {
+	text-decoration: line-through;
+}
+p2{
+	font-family: 'Nosifer', cursive;
+	font-size: 2.0em;
+}
+
