@@ -1,0 +1,27 @@
+p {
+/*content*/
+width : 50%;
+
+	margin-left: auto;
+	margin-right: auto;
+
+text-align: center;
+/*align-content: center;*/
+/*border*/
+
+
+border : 2px solid blue;
+/*padding*/
+padding : 10px;
+/*margin*/
+
+/*margin: 100px; = all round space*/
+/*margin-to...  = only space a the top*/
+/*margin: top right bottom left ;*/
+/*abovve all values can be diffrent*/
+/* margin auto on lef or right will center*/
+/*margin: 20px auto 20px auto;*/
+/* can do margin: 20 auto;*/
+
+
+}

@@ -1,0 +1,36 @@
+h1	{
+
+	color : #b83bc6;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 5px solid red;
+}
+
+h4 {
+
+	color: rgb(50,174,47);
+}
+h4 {
+	background: rgb(150, 80, 54)
+}
+
+li {
+	color : rgba(11,99,150,.6)
+}
+
+body { background : pink;
+	/*background: url(https://www.sunsetmoonwellnesscenter.com/wp-content/uploads/2016/08/Sunset-Moon-Wellness-Center-Cover-Art-No-WORDS-2.png)
+	/*background-repeat: no-repeat;
+	background-size: cover;
+*/
+}
+
+div	{
+	background: #3498db
+}
+
+p {
+	color: #ecf0f1;
+}

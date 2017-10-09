@@ -1,0 +1,12 @@
+body {
+	background : yellow;
+}
+
+#a1 {
+	border : 2px solid #ff0000;
+	background : orange ;
+}
+
+.highlight {
+	background : purple;
+}
